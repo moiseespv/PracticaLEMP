@@ -2,32 +2,34 @@
 
 # Índice
 
+<h2>1. Finalidad de la infraestructura</h2>
 
-<h1>Componentes de infraestructura</h1>
-
-
-<h2>2.1 Equilibrador de carga (Nivel 1)</h2>
+<h1>2. Componentes de infraestructura</h1>
 
 
-<h2>2.2 Servidor NFS (Nivel 2)</h2>
+<h3>2.1 Equilibrador de carga (Nivel 1)</h3>
 
 
-<h2>2.3 Servidor web (Nivel 2)</h2>
+<h3>2.2 Servidor NFS (Nivel 2)</h3>
 
 
-<h2>2.4 Servidor de base de datos (Nivel 3)</h2>
+<h3>2.3 Servidor web (Nivel 2)</h3>
 
 
-</h2>3.1 Definición de máquina virtual</h2>
+<h3>2.4 Servidor de base de datos (Nivel 3)</h3>
+
+<h2>3. Configurar aprovisionamiento</h2>
+
+</h3>3.1 Definición de máquina virtual</h3>
 
 
-3.2 Compartir guiones
+<h3>3.2 Compartir guiones</h3>
 
 
-Flujo de comunicación entre componentes.
+<h2>4. Flujo de comunicación entre componentes.</h2>
 
 
-Solicitud
+<h2>5. Conclusión</h2>
 
 
 1.
@@ -91,8 +93,8 @@ Dirección IP: 192.168.70.10
 Red: Red privada utilizada para comunicarse con servidores de Internet.
 Configuración: este servidor utiliza MariaDB para la gestión de bases de datos.
 Se crea la base de datos owncloud y se configura el usuario con acceso desde el servidor web.
-3.
-Configurar roaming
+
+3. Configurar aprovisionamiento
 
 
 3.1 Definición de máquina virtual
@@ -121,8 +123,7 @@ Servidor NFS configurado para compartir archivos OwnCloud.
 La base de datos está configurada en MariaDB.
 
 
-4.
-Flujo de comunicación entre componentes.
+4.Flujo de comunicación entre componentes.
 
 
 Equilibrio de carga: los usuarios acceden a un equilibrador de carga para reenviar solicitudes a uno de los dos servidores web.
