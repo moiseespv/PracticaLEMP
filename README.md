@@ -4,7 +4,7 @@
 
 <h2>1. Finalidad de la infraestructura</h2>
 
-<h1>2. Componentes de infraestructura</h1>
+<h2>2. Componentes de infraestructura</h2>
 
 
 <h3>2.1 Equilibrador de carga (Nivel 1)</h3>
