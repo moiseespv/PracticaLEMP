@@ -142,6 +142,6 @@ Base de datos: El servidor web se comunica con la base de datos MariaDB para ges
 Esta infraestructura proporciona una solución de almacenamiento OwnCloud escalable y tolerante a fallos. Con equilibrio de carga, almacenamiento NFS compartido y bases de datos MariaDB, la infraestructura está diseñada para admitir más usuarios y garantizar una alta disponibilidad y confiabilidad.
 Esta es la arquitectura ideal para entornos que requieren alta disponibilidad y fácil escalabilidad.
 
-
+----
 
 Esta práctica no he conseguido averiguar cuál es el fallo, ya que al poner la ip del balanceador me da ese error, tengo la carpeta montada, las máquinas hacen ping entre ellas, el php está corriendo... la verdad no sé donde está el fallo.
