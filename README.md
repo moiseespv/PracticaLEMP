@@ -144,4 +144,4 @@ Esta es la arquitectura ideal para entornos que requieren alta disponibilidad y 
 
 ----
 
-Esta práctica no he conseguido averiguar cuál es el fallo, ya que al poner la ip del balanceador me da ese error, tengo la carpeta montada, las máquinas hacen ping entre ellas, el php está corriendo... la verdad no sé donde está el fallo.
+Esta práctica no he conseguido averiguar cuál es el fallo, ya que al poner la ip del balanceador me da el error de la foto, tengo la carpeta montada, las máquinas hacen ping entre ellas, el php está corriendo... la verdad no sé donde está el fallo.
