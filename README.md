@@ -20,7 +20,7 @@
 
 <h2>3. Configurar aprovisionamiento</h2>
 
-</h3>3.1 Definición de máquina virtual</h3>
+<h3>3.1 Definición de máquina virtual</h3>
 
 
 <h3>3.2 Compartir guiones</h3>
